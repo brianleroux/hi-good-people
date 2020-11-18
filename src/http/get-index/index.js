@@ -17,8 +17,7 @@ let body = `
   <body>
 
     <h1 class="center-text">
-      <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
-      Hello world!
+      super fast no containers involved 
     </h1>
 
     <p class="center-text">
